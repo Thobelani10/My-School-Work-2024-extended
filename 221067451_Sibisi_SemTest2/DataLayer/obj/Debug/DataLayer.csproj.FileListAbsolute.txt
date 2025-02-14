@@ -1,0 +1,12 @@
+T:\221067451_Sibisi_SemTest2\PresentationLayer\DataLayer\bin\Debug\DataLayer.dll
+T:\221067451_Sibisi_SemTest2\PresentationLayer\DataLayer\bin\Debug\DataLayer.pdb
+T:\221067451_Sibisi_SemTest2\PresentationLayer\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+T:\221067451_Sibisi_SemTest2\PresentationLayer\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+T:\221067451_Sibisi_SemTest2\PresentationLayer\DataLayer\obj\Debug\DataLayer.dll
+T:\221067451_Sibisi_SemTest2\PresentationLayer\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\user\source\repos\221067451_Sibisi_SemTest2\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\user\source\repos\221067451_Sibisi_SemTest2\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\user\source\repos\221067451_Sibisi_SemTest2\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\221067451_Sibisi_SemTest2\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\221067451_Sibisi_SemTest2\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\user\source\repos\221067451_Sibisi_SemTest2\DataLayer\obj\Debug\DataLayer.pdb
